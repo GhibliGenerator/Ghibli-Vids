@@ -1,7 +1,7 @@
 <h1 align="center">Ghibli Vids - AI-Powered Animation System</h1>
 
 <p align="center">
-  <img src="SpiritedAway.jpg" alt="Ghibli Generator Logo" width="300">
+  <img src="SpiritedAway.png" alt="Ghibli Generator Logo" width="300">
 </p>
 
 <p align="center">
